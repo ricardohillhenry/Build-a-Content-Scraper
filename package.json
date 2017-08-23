@@ -1,0 +1,10 @@
+{
+  "name": "Techdegree-scraper",
+  "version": "1.0.0",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "json2csv": "^3.11.1",
+    "path": "^0.12.7",
+    "scraperjs": "^1.2.0"
+  }
+}
